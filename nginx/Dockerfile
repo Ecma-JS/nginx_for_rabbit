@@ -1,4 +1,4 @@
 FROM nginx:latest
 COPY nginx.conf /etc/nginx/nginx.conf
 
-EXPOSE 5000 80
+EXPOSE 80
