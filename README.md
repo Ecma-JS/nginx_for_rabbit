@@ -5,4 +5,4 @@
 - OS macOS: /Users/[work-domain]-[nick]
 
 
-Repository path: ~Profiles/Ecma-JS/Projects/ecmajs-tasks-junior-general/Repositories/task_4
+Repository path: ~Profiles/Ecma-JS/Projects/ecmajs-tasks-junior-general/Repositories/task_1
